@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{57323D15-032B-468E-8CD4-23A1E92D1C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{2DF3F427-AD3C-457A-9FD3-1DFD47AFFBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{D9DDE5D0-F573-44A3-9E8D-1FAA70D386D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57323D15-032B-468E-8CD4-23A1E92D1C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57323D15-032B-468E-8CD4-23A1E92D1C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57323D15-032B-468E-8CD4-23A1E92D1C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57323D15-032B-468E-8CD4-23A1E92D1C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF3F427-AD3C-457A-9FD3-1DFD47AFFBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF3F427-AD3C-457A-9FD3-1DFD47AFFBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF3F427-AD3C-457A-9FD3-1DFD47AFFBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF3F427-AD3C-457A-9FD3-1DFD47AFFBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DDE5D0-F573-44A3-9E8D-1FAA70D386D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DDE5D0-F573-44A3-9E8D-1FAA70D386D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DDE5D0-F573-44A3-9E8D-1FAA70D386D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DDE5D0-F573-44A3-9E8D-1FAA70D386D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2DA848-1DEB-4E70-93B3-75D9B331527C}
+	EndGlobalSection
+EndGlobal
